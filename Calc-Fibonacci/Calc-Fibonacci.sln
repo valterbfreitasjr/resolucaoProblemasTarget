@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc-Fibonacci", "Calc-Fibonacci\Calc-Fibonacci.csproj", "{C67A8990-EEA7-4C12-964B-8E0BEC2BF802}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Fibonacci", "2 - Fibonacci", "{50D20BEE-C9A0-4DA0-9CAF-DD4D1B717862}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- Faturamento", "3- Faturamento", "{40D16452-7FB8-42EF-90B1-FCA4AD430E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturamentoMensal", "FaturamentoMensal\FaturamentoMensal.csproj", "{39116AFE-7B31-47D9-A4D3-794CCECABF38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Distribuidora", "4 - Distribuidora", "{F53A6239-FC52-4377-B75F-C493CEA3268A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturamentoMensalDistribuidora", "FaturamentoMensalDistribuidora\FaturamentoMensalDistribuidora.csproj", "{41A74BA7-17AE-4625-83D0-FA9036185CD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - TrocarLetras", "5 - TrocarLetras", "{3D27FAF3-B4EC-4131-9469-BE7FE9303442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverterCaracteres", "InverterCaracteres\InverterCaracteres.csproj", "{2820DC25-0B52-4EE4-927E-45BBEEB20F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67A8990-EEA7-4C12-964B-8E0BEC2BF802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67A8990-EEA7-4C12-964B-8E0BEC2BF802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67A8990-EEA7-4C12-964B-8E0BEC2BF802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67A8990-EEA7-4C12-964B-8E0BEC2BF802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39116AFE-7B31-47D9-A4D3-794CCECABF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39116AFE-7B31-47D9-A4D3-794CCECABF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39116AFE-7B31-47D9-A4D3-794CCECABF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39116AFE-7B31-47D9-A4D3-794CCECABF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A74BA7-17AE-4625-83D0-FA9036185CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A74BA7-17AE-4625-83D0-FA9036185CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A74BA7-17AE-4625-83D0-FA9036185CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A74BA7-17AE-4625-83D0-FA9036185CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2820DC25-0B52-4EE4-927E-45BBEEB20F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2820DC25-0B52-4EE4-927E-45BBEEB20F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2820DC25-0B52-4EE4-927E-45BBEEB20F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2820DC25-0B52-4EE4-927E-45BBEEB20F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C67A8990-EEA7-4C12-964B-8E0BEC2BF802} = {50D20BEE-C9A0-4DA0-9CAF-DD4D1B717862}
+		{39116AFE-7B31-47D9-A4D3-794CCECABF38} = {40D16452-7FB8-42EF-90B1-FCA4AD430E82}
+		{41A74BA7-17AE-4625-83D0-FA9036185CD3} = {F53A6239-FC52-4377-B75F-C493CEA3268A}
+		{2820DC25-0B52-4EE4-927E-45BBEEB20F84} = {3D27FAF3-B4EC-4131-9469-BE7FE9303442}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {559B1BF8-F4AF-4069-8216-026D122352AD}
+	EndGlobalSection
+EndGlobal

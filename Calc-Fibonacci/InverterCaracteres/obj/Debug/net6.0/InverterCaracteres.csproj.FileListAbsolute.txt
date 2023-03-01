@@ -1,0 +1,15 @@
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\bin\Debug\net6.0\InverterCaracteres.exe
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\bin\Debug\net6.0\InverterCaracteres.deps.json
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\bin\Debug\net6.0\InverterCaracteres.runtimeconfig.json
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\bin\Debug\net6.0\InverterCaracteres.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\bin\Debug\net6.0\InverterCaracteres.pdb
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.csproj.AssemblyReference.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.AssemblyInfoInputs.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.AssemblyInfo.cs
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.csproj.CoreCompileInputs.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\refint\InverterCaracteres.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.pdb
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\InverterCaracteres.genruntimeconfig.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\InverterCaracteres\obj\Debug\net6.0\ref\InverterCaracteres.dll

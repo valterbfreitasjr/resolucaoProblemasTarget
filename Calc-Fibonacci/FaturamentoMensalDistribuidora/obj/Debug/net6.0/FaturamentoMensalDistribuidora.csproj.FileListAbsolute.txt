@@ -1,0 +1,15 @@
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\bin\Debug\net6.0\FaturamentoMensalDistribuidora.exe
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\bin\Debug\net6.0\FaturamentoMensalDistribuidora.deps.json
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\bin\Debug\net6.0\FaturamentoMensalDistribuidora.runtimeconfig.json
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\bin\Debug\net6.0\FaturamentoMensalDistribuidora.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\bin\Debug\net6.0\FaturamentoMensalDistribuidora.pdb
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.csproj.AssemblyReference.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.AssemblyInfoInputs.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.AssemblyInfo.cs
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.csproj.CoreCompileInputs.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\refint\FaturamentoMensalDistribuidora.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.pdb
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\FaturamentoMensalDistribuidora.genruntimeconfig.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\FaturamentoMensalDistribuidora\obj\Debug\net6.0\ref\FaturamentoMensalDistribuidora.dll

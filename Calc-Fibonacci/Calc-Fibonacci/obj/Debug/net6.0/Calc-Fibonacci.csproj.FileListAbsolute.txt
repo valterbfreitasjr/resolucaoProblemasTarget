@@ -1,0 +1,15 @@
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\bin\Debug\net6.0\Calc-Fibonacci.exe
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\bin\Debug\net6.0\Calc-Fibonacci.deps.json
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\bin\Debug\net6.0\Calc-Fibonacci.runtimeconfig.json
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\bin\Debug\net6.0\Calc-Fibonacci.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\bin\Debug\net6.0\Calc-Fibonacci.pdb
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.csproj.AssemblyReference.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.AssemblyInfoInputs.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.AssemblyInfo.cs
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.csproj.CoreCompileInputs.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\refint\Calc-Fibonacci.dll
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.pdb
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\Calc-Fibonacci.genruntimeconfig.cache
+D:\Users\valte\source\Testes-TargetSistemas\Calc-Fibonacci\Calc-Fibonacci\obj\Debug\net6.0\ref\Calc-Fibonacci.dll
